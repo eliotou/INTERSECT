@@ -1,0 +1,2 @@
+MP4Box -dash 1000 -rap -frag-rap -bs-switching no -profile "dashavc264:live"  "video_1080.mp4" "video_720.mp4" "video_480.mp4" "video_360.mp4" "video_242.mp4" "video_audio.mp4" -out "video.mpd"
+
